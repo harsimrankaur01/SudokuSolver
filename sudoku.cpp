@@ -5,7 +5,6 @@ using namespace std;
 // N is the size of the 2D matrix   N*N
 #define N 9
  
-/* A utility function to print grid */
 void print(int arr[N][N])
 {
     for (int i = 0; i < N; i++)
